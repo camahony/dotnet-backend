@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mahon\\Documents\\dotnet-projects\\Reactivities\\Domain\\Domain.csproj": {}
+    "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mahon\\Documents\\dotnet-projects\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahon\\Documents\\dotnet-projects\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\mahon\\Documents\\dotnet-projects\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\mahon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahon\\Documents\\dotnet-projects\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahon\\AppData\\Roaming\\NuGet\\NuGet.Config"
