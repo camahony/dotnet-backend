@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C4b+F5w/uykXMbyuFu5RRyiMT/kO0NOsnlOXmXh2g5fPEYk40w13tNAfIVMaslweua70IbPgIj4PkR6iv5U+HA==",
+  "dgSpecHash": "394TU9trxQCwpqUH50TkUYzGkWtgZcCW8TRYfh8v9/RcWRp+Ad9OurQcEkD1ldLEZ831jhWGhleCz2Uqvk/y9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Persistence\\Persistence.csproj",
+  "projectFilePath": "c:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mahon\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.10\\microsoft.data.sqlite.core.6.0.10.nupkg.sha512",
     "C:\\Users\\mahon\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",

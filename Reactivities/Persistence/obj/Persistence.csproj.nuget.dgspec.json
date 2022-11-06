@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Persistence\\Persistence.csproj": {}
+    "c:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\Domain.csproj": {
+    "c:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\mahon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahon\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Persistence\\Persistence.csproj": {
+    "c:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "c:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "c:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\mahon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "c:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mahon\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\Domain.csproj"
+              "c:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\mahon\\Documents\\dotnet-projects\\dotnet-backend\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
